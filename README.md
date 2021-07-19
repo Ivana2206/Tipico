@@ -31,3 +31,7 @@ Download the zip file on desired location open Eclipse or other ide setting the 
 In Eclipse : Go to File -> Import -> General -> Existing Projects into Workspace -> Next -> Select root directory -> Finsih
 
 Run test as TestNg Test executing testng.xml or TestPage.java class
+
+Reporting
+
+Reports for this module are written into /Reports directory after a successful run. UI tests result in a HTML report. In the case of test failures, a screen-shoot of the UI at the point of failure is embedded into the report.
