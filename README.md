@@ -34,4 +34,4 @@ Run test as TestNg Test executing testng.xml or TestPage.java class
 
 Reporting
 
-Reports for this module are written into /Reports directory after a successful run. UI tests result in a HTML report. In the case of test failures, a screen-shoot of the UI at the point of failure is embedded into the report.
+Report for this module is written into /Report directory after a successful run. UI tests result in a HTML report. In the case of test failures, a screen-shoot of the UI at the point of failure is embedded into the report.
